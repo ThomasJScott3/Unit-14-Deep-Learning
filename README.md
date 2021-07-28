@@ -4,7 +4,7 @@
 
 <br>
 
-In this homework assignment, we were asked to use LTSM RNNs to evaluate bitcoin sentiment. The datasets were provided to us in .CSV format. They are contained in the 'Solution' folder in this repository. The two jupyter notebooks use pretty much the same code. In fact, I did not make any major alterations when putting my code from the closing notebook into the FNG notebook. Moreover, most of the substantial code was already provided. All I was asked to do was essentially fill in the blanks. I used clear variable names throughout my code as well as concise comments on virtually every line for which I was responsible.
+In this homework assignment, I was asked to use LTSM RNNs to evaluate which indicator better predicted bitcoin price trends. The datasets were provided to us in .CSV format. They are contained in the 'Solution' folder in this repository. The two jupyter notebooks use pretty much the same code. In fact, I did not make any major alterations when putting my code from the closing notebook into the FNG notebook. Moreover, most of the substantial code was already provided. All I was asked to do was essentially fill in the blanks. I used clear variable names throughout my code as well as concise comments on virtually every line for which I was responsible.
 
 <br>
 
@@ -16,7 +16,7 @@ The first notebook used simple closing prices versus the "real price" of bitcoin
 
 <p align="center"><img src="https://github.com/ThomasJScott3/Unit-14-Deep-Learning/blob/main/Images/FNG.png?raw=true"></img></p>
 
-The second notebook used the crypto "fear and greed" index to ascertain it's value versus the real price of the asset.
+The second notebook used the crypto "fear and greed" index to ascertain bitcoin's potential value versus the real price of the asset.
 
 ### Conclusion
 
